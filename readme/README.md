@@ -62,6 +62,10 @@ http://localhost:3000
 
 ---
 
+Foto de como está o site
+
+![Descrição da imagem](./Captura%20de%20tela%202025-06-06%20100500.png)
+
 
 
 
